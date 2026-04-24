@@ -1,0 +1,5 @@
+{
+  "device_id": SIR682BA,
+  "version": "1.0.12",
+  "firmware": "https://github.com/Transformers-Prime/irctc-ota/raw/test/mqtt_main.bin"
+}
